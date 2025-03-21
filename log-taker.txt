@@ -2030,3 +2030,12 @@
 3/21/2025 | 4:12:27 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/21/2025 | 4:12:27 PM | INFO | Trying to activate mining on-chain for wallet: 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4 
 3/21/2025 | 4:12:38 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x681912179334c3977203e8c5ebc741a1b1fa068cca80f4e841684103275f257c 
+3/21/2025 | 8:10:38 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/21/2025 | 8:10:38 PM | INFO | Start process for wallet 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4 
+3/21/2025 | 8:10:39 PM | INFO | Trying To Login for wallet: 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4 
+3/21/2025 | 8:10:40 PM | INFO | Login successful... 
+3/21/2025 | 8:10:40 PM | INFO | Trying to check user info... 
+3/21/2025 | 8:10:40 PM | INFO | User ID: 102727493 | Twitter: @znaysaa | Total Points: 744000 
+3/21/2025 | 8:10:40 PM | INFO | Trying to check user miner status... 
+3/21/2025 | 8:10:41 PM | INFO | Last mining time: 3/21/2025, 4:12:33 PM
+3/21/2025 | 8:10:41 PM | WARN | Mining already started, next mining time is: 3/22/2025, 4:12:33 PM
