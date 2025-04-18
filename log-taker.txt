@@ -3616,3 +3616,16 @@
 4/18/2025 | 12:18:16 PM | INFO | Trying to check user miner status... 
 4/18/2025 | 12:18:17 PM | INFO | Last mining time: 4/18/2025, 12:49:00 AM
 4/18/2025 | 12:18:17 PM | WARN | Mining already started, next mining time is: 4/19/2025, 12:49:00 AM
+4/18/2025 | 4:12:02 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 4:12:03 PM | INFO | Start process for wallet 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4 
+4/18/2025 | 4:12:03 PM | INFO | Trying To Login for wallet: 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4 
+4/18/2025 | 4:12:04 PM | INFO | Login successful... 
+4/18/2025 | 4:12:04 PM | INFO | Trying to check user info... 
+4/18/2025 | 4:12:04 PM | INFO | User ID: 102727493 | Twitter: @znaysaa | Total Points: 1320000 
+4/18/2025 | 4:12:04 PM | INFO | Trying to check user miner status... 
+4/18/2025 | 4:12:10 PM | INFO | Last mining time: 4/16/2025, 12:19:33 PM
+4/18/2025 | 4:12:10 PM | INFO | Trying to start Mining for wallet: 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4 
+4/18/2025 | 4:12:13 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/18/2025 | 4:12:13 PM | INFO | Trying to activate mining on-chain for wallet: 0xdBd56e0daB296e327AeC1F417dEAE1f9e2dD1cb4 
+4/18/2025 | 4:12:13 PM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
+4/18/2025 | 4:12:13 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
